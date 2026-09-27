@@ -646,16 +646,19 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 http://59.39.89.130:60901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="",group-title="央视",CCTV1
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+http://198.204.228.26/live/cctv1hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="",group-title="央视",CCTV2
-http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+http://120.198.95.220:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&down=1
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="",group-title="央视",CCTV3
-http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="",group-title="央视",CCTV2
+http://173.208.212.130:8181/720p/cctv2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="",group-title="央视",CCTV3
 http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="",group-title="央视",CCTV3
+http://59.39.89.130:60901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="",group-title="央视",CCTV4
 http://59.39.89.130:60901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -682,7 +685,7 @@ http://8.138.7.223/tv/1905.php?id=LIVE3YPYZ30E7V1R0
 http://120.198.95.220:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&down=1
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="",group-title="央视",CCTV7
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd
+http://120.198.95.220:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&down=1
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="",group-title="央视",CCTV8
 http://59.39.89.130:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -691,7 +694,7 @@ http://59.39.89.130:60901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 http://118.122.144.115:8888/newlive/live/hls/9/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="",group-title="央视",CCTV9
-http://198.204.228.26/live/cctv9hd.m3u8
+http://120.198.95.220:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&down=1
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="",group-title="央视",CCTV10
 http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -700,22 +703,16 @@ http://59.39.89.130:60901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="",group-title="央视",CCTV11
-http://118.122.144.115:8888/newlive/live/hls/12/live.m3u8
+http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="",group-title="央视",CCTV11
-http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
+http://118.122.144.115:8888/newlive/live/hls/12/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="",group-title="央视",CCTV12
 http://120.198.95.220:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&down=1
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="",group-title="央视",CCTV12
-http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
-
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="",group-title="央视",CCTV13
 http://59.39.89.130:60901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="",group-title="央视",CCTV14
-http://173.208.212.130:8181/1080p/cctv14.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="",group-title="央视",CCTV14
 http://198.204.228.26/live/cctv14hd.m3u8
@@ -731,9 +728,6 @@ http://183.129.255.66:8480/hls/17/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="",group-title="央视",CCTV16
 http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="",group-title="央视",CCTV17
-http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
 http://t.061899.xyz/tl/tl.php?id=cgtn
@@ -2683,7 +2677,7 @@ https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8
 http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
+http://43.152.224.209/qctv.fengshows.cn/live/0701pcc72.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="",group-title="港澳台频道",凤凰电影
 http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
