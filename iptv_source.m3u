@@ -3366,6 +3366,18 @@ http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
 http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="美亚电影台" tvg-logo="",group-title="港澳台频道",美亚电影台
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2RlNGM5ZmJjODBhNTFlOTVhNDJhZTU2ZDA4YmVkOGQzL21hc3Rlci5tM3U4
+
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2JkY2ZkODIzOWE1MjhiZjhiMTFkNWNjNTA4ODk2ZDk3L21hc3Rlci5tM3U4
+
+#EXTINF:-1 tvg-id="" tvg-name="PopC" tvg-logo="",group-title="港澳台频道",PopC
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoLzdiNTg5NGY1YjMzYjVlOTU4OTI1OTk5OTRjNDQxYmEzL21hc3Rlci5tM3U4
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
+http://www.kaniptv.cn/uadl.php?ua=QVBUVg==&mode=1&hls=aHR0cDovL215dHZzdXBlci5tYWdpY2x1d2VpYm8xLmh6LmN6L2NoL2QwM2FiMGM5NzgyNTQ0OTJkNzEzOWQ4ZDgxZGYxNzZhL21hc3Rlci5tM3U4
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="",group-title="港澳台频道",SPOTV
 http://iptv.4666888.xyz/iptv2A.php?id=2
 
