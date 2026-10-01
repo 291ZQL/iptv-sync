@@ -1500,18 +1500,6 @@ http://192.151.150.154/live/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K超" tvg-logo="",group-title="央视",CCTV4K超
 http://107.150.60.122/live/cctv4k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K超" tvg-logo="",group-title="央视",CCTV4K超
-http://120.87.19.109:80/PLTV/88888973/224/3221226217/10000100000000060000000001339123_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xAkH4zk1RfN3Ktv7bPxyeHQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K超" tvg-logo="",group-title="央视",CCTV4K超
-http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K超" tvg-logo="",group-title="央视",CCTV4K超
-http://198.204.228.26/live/cctv4k.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K超" tvg-logo="",group-title="央视",CCTV4K超
-http://173.208.212.130:8181/720p/cctv4k.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
 http://192.151.150.154/live/cctv4hd.m3u8
 
@@ -4230,18 +4218,6 @@ http://gzgxzm.dpdns.org:10086/rtp/239.20.0.52:3192
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://gzgxzm.dpdns.org:10086/rtp/239.21.0.143:3916
 
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视4K" tvg-logo="",group-title="卫视",东方卫视4K
-http://go.bkpcp.top/mg/dfws
-
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视4K" tvg-logo="",group-title="卫视",浙江卫视4K
-http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视4K" tvg-logo="",group-title="卫视",浙江卫视4K
-http://go.bkpcp.top/mg/zjws
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视4K" tvg-logo="",group-title="卫视",湖南卫视4K
-http://go.bkpcp.top/mg/hunws
-
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://8.138.7.223/tv/dwq.m3u8
 
@@ -4554,38 +4530,11 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226653/100001000000000600000000020
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://120.87.19.109:80/PLTV/88888973/224/3221226641/10000100000000060000000002048493_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xPd+hGcad9w4t/gctIKGSlQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K超" tvg-logo="",group-title="卫视",北京卫视4K超
-http://120.87.19.109:80/PLTV/88888973/224/3221226680/371059534.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=VDZkqe2wDG/DozHtN5Qt2rSqeZkQUG07rgE0zxej+vXlUY3cxzF4b4EdoFXUYfIFrZU17scXXfWzTQ5WGY4N6AWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj3,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K超" tvg-logo="",group-title="卫视",北京卫视4K超
-http://120.87.19.109:80/PLTV/88888973/224/3221226685/371059429.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=7P9/PZjGeZIv+PttGdhw9fGClzuqx/sLFLhIzoPz02Vo9yI5oCqbIdWBM0myx3pTLUCRGUKVQU6nPwKEvLSJmPtfJ+e5cuPukUHUQrsTrlmMAcBkbs8LL691ccJjISEL,END&tenantId=8601
-
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://120.87.19.109:80/PLTV/88888973/224/3221225724/10000100000000060000000000334167_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xKE/QJmC5tLTx8nicRIKEGgWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://120.87.19.109:80/PLTV/88888973/224/3221226652/10000100000000060000000002048490_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xMHW1tjwnl0hJmHSj2CHsoQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视4k" tvg-logo="",group-title="卫视",湖南卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226686/371266843.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF4AclWfix7PWG49A8ZruedFGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266842%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266843%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视4k" tvg-logo="",group-title="卫视",浙江卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226717/371266855.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF96lAdHt7wSuHMZWesBR20hGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266854%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266855%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视4k" tvg-logo="",group-title="卫视",江苏卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226714/371266888.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF9VlHXqKSARWKoBip%2F%2FsPYdGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266887%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266888%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视4k" tvg-logo="",group-title="卫视",东方卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226691/371266902.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIFx2M0aMyK6zMum3gWrB81NpGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266901%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266902%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视4k" tvg-logo="",group-title="卫视",四川卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226689/371266867.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF%2F12%2BzV%2FNqzIIOihgu6DSEJGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266866%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266867%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视4k" tvg-logo="",group-title="卫视",山东卫视4k
-http://120.87.19.109:80/PLTV/88888973/224/3221226694/371266914.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIF6Yfz6vhWACWrMi2nukP%2Fk9GAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371266913%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371266914%2CEND&GuardEncType=2
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视4K" tvg-logo="",group-title="卫视",北京卫视4K
-http://120.87.19.109:80/PLTV/88888973/224/3221226685/371059429.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIFwjPONabwq4Db4vofET%2FLZdGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371059428%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371059429%2CEND&GuardEncType=2
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
@@ -4710,8 +4659,14 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://go.bkpcp.top/mg/zjws
+
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
 http://go.bkpcp.top/mg/jsws
+
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://go.bkpcp.top/mg/dfws
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
 http://go.bkpcp.top/mg/sxws
@@ -4736,6 +4691,9 @@ http://go.bkpcp.top/mg/dnws
 
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="",group-title="卫视",海南卫视
 http://go.bkpcp.top/mg/hinws
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://go.bkpcp.top/mg/hunws
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
 http://go.bkpcp.top/mg/bjws
@@ -7116,9 +7074,6 @@ http://116.18.38.68:4000/rtp/239.253.43.124:5146
 #EXTINF:-1 tvg-id="" tvg-name="TVBplus备" tvg-logo="",group-title="港澳台频道",TVBplus备
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台4K" tvg-logo="",group-title="港澳台频道",翡翠台4K
-https://cdn3.indevs.in/stream/tvb/fct4k/
-
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
 https://cdn6.cc.cd/163189/fhzw
 
@@ -7638,32 +7593,8 @@ http://chen.ccwu.cc:1234/625703337
 #EXTINF:-1 tvg-id="" tvg-name="经典香港电影" tvg-logo="",group-title="港澳台频道",经典香港电影
 http://2280.eu.org:1234/625703337
 
-#EXTINF:-1 tvg-id="" tvg-name="带你看香港经典电影" tvg-logo="",group-title="港澳台频道",带你看香港经典电影
-http://footyun.top:35455/douyu/8413226
-
-#EXTINF:-1 tvg-id="" tvg-name="小猪搞笑精选" tvg-logo="",group-title="港澳台频道",小猪搞笑精选
-http://footyun.top:35455/douyu/10329752
-
-#EXTINF:-1 tvg-id="" tvg-name="老牌香港明星的最全八卦" tvg-logo="",group-title="港澳台频道",老牌香港明星的最全八卦
-http://footyun.top:35455/douyu/9970047
-
-#EXTINF:-1 tvg-id="" tvg-name="小岛电影精选" tvg-logo="",group-title="港澳台频道",小岛电影精选
-http://footyun.top:35455/douyu/9390955
-
-#EXTINF:-1 tvg-id="" tvg-name="带你进入抗战年代" tvg-logo="",group-title="港澳台频道",带你进入抗战年代
-http://footyun.top:35455/douyu/9388945
-
 #EXTINF:-1 tvg-id="" tvg-name="香港院线大片最新" tvg-logo="",group-title="港澳台频道",香港院线大片最新
 http://footyun.top:35455/yy/1354936242
-
-#EXTINF:-1 tvg-id="" tvg-name="易中天品三国" tvg-logo="",group-title="港澳台频道",易中天品三国
-http://footyun.top:35455/yy/1354931498
-
-#EXTINF:-1 tvg-id="" tvg-name="1930年代经典电影" tvg-logo="",group-title="港澳台频道",1930年代经典电影
-http://footyun.top:35455/yy/1356363815
-
-#EXTINF:-1 tvg-id="" tvg-name="易中天品三国完整版" tvg-logo="",group-title="港澳台频道",易中天品三国完整版
-http://footyun.top:35455/yy/1461244449
 
 #EXTINF:-1 tvg-id="" tvg-name="香港第三台" tvg-logo="",group-title="港澳台频道",香港第三台
 https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8
@@ -7967,9 +7898,6 @@ http://footyun.top:35455/douyu/9488056
 
 #EXTINF:-1 tvg-id="" tvg-name="乐儿陪你看动漫" tvg-logo="",group-title="少儿频道",乐儿陪你看动漫
 http://footyun.top:35455/douyu/8221699
-
-#EXTINF:-1 tvg-id="" tvg-name="带你一起看动漫" tvg-logo="",group-title="少儿频道",带你一起看动漫
-http://footyun.top:35455/douyu/9445557
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫配音安排安排" tvg-logo="",group-title="少儿频道",动漫配音安排安排
 http://footyun.top:35455/douyu/4049310
