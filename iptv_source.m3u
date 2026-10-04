@@ -343,7 +343,7 @@ http://45.192.97.170:8880/play/272.m3u8
 http://45.192.97.170:8880/play/374.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
-http://45.192.97.170:8880/play/1903.m3u8
+http://45.192.97.170:8880/play/1933.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
 http://14.155.220.176:8888/rtp/239.77.0.134:5146
@@ -457,7 +457,7 @@ http://45.192.97.170:8880/play/273.m3u8
 http://45.192.97.170:8880/play/375.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
-http://45.192.97.170:8880/play/1904.m3u8
+http://45.192.97.170:8880/play/1934.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
 http://14.155.220.176:8888/rtp/239.77.1.238:5146
@@ -580,7 +580,7 @@ http://45.192.97.170:8880/play/274.m3u8
 http://45.192.97.170:8880/play/376.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://45.192.97.170:8880/play/1905.m3u8
+http://45.192.97.170:8880/play/1935.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
 http://14.155.220.176:8888/rtp/239.77.0.136:5146
@@ -712,7 +712,7 @@ http://45.192.97.170:8880/play/275.m3u8
 http://45.192.97.170:8880/play/377.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://45.192.97.170:8880/play/1906.m3u8
+http://45.192.97.170:8880/play/1936.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
 http://14.155.220.176:8888/rtp/239.77.0.188:5146
@@ -835,7 +835,7 @@ http://45.192.97.170:8880/play/276.m3u8
 http://45.192.97.170:8880/play/378.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
-http://45.192.97.170:8880/play/1907.m3u8
+http://45.192.97.170:8880/play/1937.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
 http://14.155.220.176:8888/rtp/239.77.0.133:5146
@@ -940,7 +940,7 @@ http://45.192.97.170:8880/play/277.m3u8
 http://45.192.97.170:8880/play/379.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
-http://45.192.97.170:8880/play/1908.m3u8
+http://45.192.97.170:8880/play/1938.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
 http://14.155.220.176:8888/rtp/239.77.1.120:5146
@@ -1054,7 +1054,7 @@ http://45.192.97.170:8880/play/244.m3u8
 http://45.192.97.170:8880/play/278.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
-http://45.192.97.170:8880/play/1909.m3u8
+http://45.192.97.170:8880/play/1939.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
 http://14.155.220.176:8888/rtp/239.77.0.165:5146
@@ -1123,7 +1123,7 @@ http://45.192.97.170:8880/play/245.m3u8
 http://45.192.97.170:8880/play/279.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://45.192.97.170:8880/play/1910.m3u8
+http://45.192.97.170:8880/play/1940.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
 http://14.155.220.176:8888/rtp/239.77.0.198:5146
@@ -1243,7 +1243,7 @@ http://45.192.97.170:8880/play/263.m3u8
 http://45.192.97.170:8880/play/365.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://45.192.97.170:8880/play/1893.m3u8
+http://45.192.97.170:8880/play/1923.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
 http://14.155.220.176:8888/rtp/239.77.0.194:5146
@@ -1435,7 +1435,7 @@ http://45.192.97.170:8880/play/264.m3u8
 http://45.192.97.170:8880/play/366.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
-http://45.192.97.170:8880/play/1894.m3u8
+http://45.192.97.170:8880/play/1924.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
 http://14.155.220.176:8888/rtp/239.77.0.137:5146
@@ -1552,7 +1552,7 @@ http://45.192.97.170:8880/play/265.m3u8
 http://45.192.97.170:8880/play/367.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
-http://45.192.97.170:8880/play/1895.m3u8
+http://45.192.97.170:8880/play/1925.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
 http://14.155.220.176:8888/rtp/239.77.0.169:5146
@@ -1651,7 +1651,7 @@ http://112.30.73.119:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="",group-title="央视",CCTV4K
-http://45.192.97.170:8880/play/1965.m3u8
+http://45.192.97.170:8880/play/1995.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="",group-title="央视",CCTV4K
 http://120.234.187.66:10086/rtp/239.11.0.161:1025
@@ -1687,7 +1687,7 @@ http://45.192.97.170:8880/play/266.m3u8
 http://45.192.97.170:8880/play/368.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
-http://45.192.97.170:8880/play/1896.m3u8
+http://45.192.97.170:8880/play/1926.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
 http://14.155.220.176:8888/rtp/239.77.0.78:5146
@@ -1888,7 +1888,7 @@ http://45.192.97.170:8880/play/233.m3u8
 http://45.192.97.170:8880/play/280.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
-http://45.192.97.170:8880/play/1898.m3u8
+http://45.192.97.170:8880/play/1928.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
 http://14.155.220.176:8888/rtp/239.77.0.87:5146
@@ -1987,7 +1987,7 @@ http://45.192.97.170:8880/play/267.m3u8
 http://45.192.97.170:8880/play/369.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
-http://45.192.97.170:8880/play/1897.m3u8
+http://45.192.97.170:8880/play/1927.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
 http://14.155.220.176:8888/rtp/239.77.0.170:5146
@@ -2071,7 +2071,7 @@ http://45.192.97.170:8880/play/268.m3u8
 http://45.192.97.170:8880/play/370.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
-http://45.192.97.170:8880/play/1899.m3u8
+http://45.192.97.170:8880/play/1929.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
 http://14.155.220.176:8888/rtp/239.77.0.171:5146
@@ -2185,7 +2185,7 @@ http://45.192.97.170:8880/play/269.m3u8
 http://45.192.97.170:8880/play/371.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
-http://45.192.97.170:8880/play/1900.m3u8
+http://45.192.97.170:8880/play/1930.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
 http://14.155.220.176:8888/rtp/239.77.0.138:5146
@@ -2281,7 +2281,7 @@ http://173.208.212.130:8181/720p/cctv7.m3u8
 http://173.208.212.130:8181/1080p/cctv7.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="",group-title="央视",CCTV8K
-http://45.192.97.170:8880/play/1972.m3u8
+http://45.192.97.170:8880/play/2002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K超" tvg-logo="",group-title="央视",CCTV8K超
 http://45.192.97.170:8880/play/247.m3u8
@@ -2320,7 +2320,7 @@ http://45.192.97.170:8880/play/270.m3u8
 http://45.192.97.170:8880/play/372.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
-http://45.192.97.170:8880/play/1901.m3u8
+http://45.192.97.170:8880/play/1931.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
 http://14.155.220.176:8888/rtp/239.77.0.172:5146
@@ -2440,7 +2440,7 @@ http://45.192.97.170:8880/play/271.m3u8
 http://45.192.97.170:8880/play/373.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
-http://45.192.97.170:8880/play/1902.m3u8
+http://45.192.97.170:8880/play/1932.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
 http://14.155.220.176:8888/rtp/239.77.0.135:5146
@@ -3052,7 +3052,7 @@ http://120.234.187.66:10086/rtp/239.21.0.113:3792
 http://cfss.cc/cdn/dy/letus17.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
-http://45.192.97.170:8880/play/1912.m3u8
+http://45.192.97.170:8880/play/1942.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
 http://14.155.220.176:8888/rtp/239.253.43.11:5146
@@ -3133,7 +3133,7 @@ http://cfss.cc/cdn/dy/nuanxinnengl.flv
 http://cfss.cc/cdn/dy/yscjxmt.flv
 
 #EXTINF:-1 tvg-id="" tvg-name="央视高网" tvg-logo="",group-title="央视",央视高网
-http://45.192.97.170:8880/play/1918.m3u8
+http://45.192.97.170:8880/play/1948.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="小央视频" tvg-logo="",group-title="央视",小央视频
 http://cfss.cc/cdn/dy/cctv_video.flv
@@ -3688,97 +3688,97 @@ http://45.192.97.170:8880/play/403.m3u8
 http://45.192.97.170:8880/play/404.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://45.192.97.170:8880/play/1926.m3u8
+http://45.192.97.170:8880/play/1956.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://45.192.97.170:8880/play/1927.m3u8
+http://45.192.97.170:8880/play/1957.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://45.192.97.170:8880/play/1928.m3u8
+http://45.192.97.170:8880/play/1958.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://45.192.97.170:8880/play/1929.m3u8
+http://45.192.97.170:8880/play/1959.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://45.192.97.170:8880/play/1930.m3u8
+http://45.192.97.170:8880/play/1960.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://45.192.97.170:8880/play/1931.m3u8
+http://45.192.97.170:8880/play/1961.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://45.192.97.170:8880/play/1932.m3u8
+http://45.192.97.170:8880/play/1962.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
-http://45.192.97.170:8880/play/1933.m3u8
+http://45.192.97.170:8880/play/1963.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
-http://45.192.97.170:8880/play/1934.m3u8
+http://45.192.97.170:8880/play/1964.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://45.192.97.170:8880/play/1935.m3u8
+http://45.192.97.170:8880/play/1965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
-http://45.192.97.170:8880/play/1936.m3u8
+http://45.192.97.170:8880/play/1966.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
-http://45.192.97.170:8880/play/1937.m3u8
+http://45.192.97.170:8880/play/1967.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
-http://45.192.97.170:8880/play/1938.m3u8
+http://45.192.97.170:8880/play/1968.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
-http://45.192.97.170:8880/play/1939.m3u8
+http://45.192.97.170:8880/play/1969.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="",group-title="卫视",海南卫视
-http://45.192.97.170:8880/play/1940.m3u8
+http://45.192.97.170:8880/play/1970.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
-http://45.192.97.170:8880/play/1941.m3u8
+http://45.192.97.170:8880/play/1971.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
-http://45.192.97.170:8880/play/1942.m3u8
+http://45.192.97.170:8880/play/1972.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
-http://45.192.97.170:8880/play/1943.m3u8
+http://45.192.97.170:8880/play/1973.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://45.192.97.170:8880/play/1944.m3u8
+http://45.192.97.170:8880/play/1974.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
-http://45.192.97.170:8880/play/1945.m3u8
+http://45.192.97.170:8880/play/1975.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
-http://45.192.97.170:8880/play/1946.m3u8
+http://45.192.97.170:8880/play/1976.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
-http://45.192.97.170:8880/play/1947.m3u8
+http://45.192.97.170:8880/play/1977.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://45.192.97.170:8880/play/1948.m3u8
+http://45.192.97.170:8880/play/1978.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://45.192.97.170:8880/play/1949.m3u8
+http://45.192.97.170:8880/play/1979.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
-http://45.192.97.170:8880/play/1950.m3u8
+http://45.192.97.170:8880/play/1980.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
-http://45.192.97.170:8880/play/1951.m3u8
+http://45.192.97.170:8880/play/1981.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://45.192.97.170:8880/play/1952.m3u8
+http://45.192.97.170:8880/play/1982.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
-http://45.192.97.170:8880/play/1953.m3u8
+http://45.192.97.170:8880/play/1983.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
-http://45.192.97.170:8880/play/1954.m3u8
+http://45.192.97.170:8880/play/1984.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
-http://45.192.97.170:8880/play/1955.m3u8
+http://45.192.97.170:8880/play/1985.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
-http://45.192.97.170:8880/play/1956.m3u8
+http://45.192.97.170:8880/play/1986.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://14.155.220.176:8888/rtp/239.253.43.113:5146
@@ -7658,6 +7658,84 @@ http://45.192.97.170:8880/play/411.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
 http://45.192.97.170:8880/play/412.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="",group-title="港澳台频道",中天新闻
+http://45.192.97.170:8880/play/419.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="",group-title="港澳台频道",东森新闻
+http://45.192.97.170:8880/play/420.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
+http://45.192.97.170:8880/play/421.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
+http://45.192.97.170:8880/play/422.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻" tvg-logo="",group-title="港澳台频道",民视新闻
+http://45.192.97.170:8880/play/423.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
+http://45.192.97.170:8880/play/424.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="",group-title="港澳台频道",中视
+http://45.192.97.170:8880/play/426.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
+http://45.192.97.170:8880/play/427.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中视经典" tvg-logo="",group-title="港澳台频道",中视经典
+http://45.192.97.170:8880/play/428.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中视菁采" tvg-logo="",group-title="港澳台频道",中视菁采
+http://45.192.97.170:8880/play/429.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="台视" tvg-logo="",group-title="港澳台频道",台视
+http://45.192.97.170:8880/play/430.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="",group-title="港澳台频道",台视新闻
+http://45.192.97.170:8880/play/431.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="台视综合" tvg-logo="",group-title="港澳台频道",台视综合
+http://45.192.97.170:8880/play/432.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="台视财经" tvg-logo="",group-title="港澳台频道",台视财经
+http://45.192.97.170:8880/play/433.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
+http://45.192.97.170:8880/play/434.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
+http://45.192.97.170:8880/play/435.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="",group-title="港澳台频道",民视台湾台
+http://45.192.97.170:8880/play/436.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="",group-title="港澳台频道",民视第一台
+http://45.192.97.170:8880/play/437.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="",group-title="港澳台频道",华视
+http://45.192.97.170:8880/play/438.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻资讯" tvg-logo="",group-title="港澳台频道",华视新闻资讯
+http://45.192.97.170:8880/play/439.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视教育体育文化" tvg-logo="",group-title="港澳台频道",华视教育体育文化
+http://45.192.97.170:8880/play/440.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="公视" tvg-logo="",group-title="港澳台频道",公视
+http://45.192.97.170:8880/play/441.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="公视台语台" tvg-logo="",group-title="港澳台频道",公视台语台
+http://45.192.97.170:8880/play/442.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="小公视" tvg-logo="",group-title="港澳台频道",小公视
+http://45.192.97.170:8880/play/443.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="",group-title="港澳台频道",中天新闻
+http://45.192.97.170:8880/play/444.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻" tvg-logo="",group-title="港澳台频道",东森新闻
+http://45.192.97.170:8880/play/446.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://14.155.220.176:8888/rtp/239.253.43.124:5146
